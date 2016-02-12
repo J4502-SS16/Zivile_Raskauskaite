@@ -1,4 +1,9 @@
 /*Styles go here*/
+h1 {
+	font-size: 25px;
+	padding-top: 25px;
+}
+
 body {
   font-family: helvetica;
 }
@@ -15,10 +20,6 @@ body {
   margin: 0 auto;
 }
 
-h1 {
-	font-size: 25px;
-	padding-top: 25px;
-}
 
 #sidebar {
 	/*background-color: #ddd; */
@@ -26,22 +27,6 @@ h1 {
 	float: right;
 	border-left: 2px solid #ccc;
 	padding-left: 15px;
-}
-
-#footer {
-	/*background-color: #eded78; */
-	clear: both;
-	background-color: #98bf21;
-}
-
-#footer p {
-	padding: 10px;
-	color: #fff;
-}
-
-#footer p a:link {
-	font-weight: bold;
-	color: #fff;
 }
 
 #container {
