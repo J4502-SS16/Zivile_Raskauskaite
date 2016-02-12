@@ -1,0 +1,49 @@
+/*Styles go here*/
+body {
+  font-family: "Luvida Grande", Helvetica ,Arial, sans-serif;
+}
+.ziv{
+  width: 100px;
+  float: left
+  margin-right: 5px;
+  border-style: none;
+}
+h1 {
+  font-style: 25px;
+  padding-top: 25px;
+}
+#main{
+  background-color: #ccffff;
+  width: 500px;
+}
+#sidebar{
+  background-color: #ddd;
+  width:200px;
+  float: right;
+  border-left: 2px solid #ccc;
+}
+#footer {
+  background-color: #eded78
+  clear: both;
+}
+
+#container {
+  width: 750px;
+  margin: 0 auto;
+}
+
+#nav {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+}
+
+#nav li{
+  float: left;
+}
+
+#nav a:link, #nav a:visited {
+  font-weight: bold;
+  color: #fff;
+  background-color: #98bf21;
+}
