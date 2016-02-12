@@ -1,9 +1,15 @@
 body {
   font-family: helvetica;
 }
+
 .logo{
   width: 100px;
   float: left
   margin-right: 5px;
   border-style: none;
+}
+
+#main {
+  width: 600px;
+  margin: 0 auto;
 }
